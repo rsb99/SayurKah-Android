@@ -1,0 +1,79 @@
+{
+  "vegetables": [
+    {
+      "id" : 1,
+      "name" : "Brokoli",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Brokoli/1202.jpg"
+    },
+    {
+      "id" : 2,
+      "name" : "Kacang Polong",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Kacang%20Polong/0027.jpg"
+    },
+    {
+      "id" : 3,
+      "name" : "Kembang Kol",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Kembang%20Kol/1255.jpg"
+    },
+    {
+      "id" : 4,
+      "name" : "Kentang",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Kentang/1034.jpg"
+    },
+    {
+      "id" : 5,
+      "name" : "Kubis",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Kubis/1203.jpg"
+    },
+    {
+      "id" : 6,
+      "name" : "Labu Air",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Labu%20Air/1202.jpg"
+    },
+    {
+      "id" : 7,
+      "name" : "Labu",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Labu/1202.jpg"
+    },
+    {
+      "id" : 8,
+      "name" : "Lobak",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Lobak/1202.jpg"
+    },
+    {
+      "id" : 9,
+      "name" : "Mentimun",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Mentimun/1202.jpg"
+    },
+    {
+      "id" : 10,
+      "name" : "Paprika",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Paprika/1213.jpg"
+    },
+    {
+      "id" : 11,
+      "name" : "Pare",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Pare/1005.jpg"
+    },
+    {
+      "id" : 12,
+      "name" : "Pepaya",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Pepaya/1008.jpg"
+    },
+    {
+      "id" : 13,
+      "name" : "Terong",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Terong/1202.jpg"
+    },
+    {
+      "id" : 14,
+      "name" : "Tomat",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Tomat/1204.jpg"
+    },
+    {
+      "id" : 15,
+      "name" : "Wortel",
+      "picture" : "https://raw.githubusercontent.com/rsb99/SayurKah-ML/master/Datasets/Wortel/1205.jpg"
+    }
+  ]
+}
