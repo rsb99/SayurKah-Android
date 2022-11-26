@@ -16,7 +16,7 @@
         android:theme="@style/Theme.SayurKah"
         tools:targetApi="31">
         <activity
-            android:name=".CameraActivity"
+            android:name=".ui.camera.CameraActivity"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
