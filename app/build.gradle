@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.rezaharisz.sayurkah'
+    namespace 'com.reresb.sayurkah'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.rezaharisz.sayurkah"
+        applicationId "com.reresb.sayurkah"
         minSdk 28
         targetSdk 33
         versionCode 1

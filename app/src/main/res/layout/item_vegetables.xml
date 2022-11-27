@@ -15,8 +15,8 @@
 
         <ImageView
             android:id="@+id/iv_vegetable"
-            android:layout_width="180dp"
-            android:layout_height="180dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
             android:src="@drawable/vegetables"
             android:scaleType="fitCenter"/>
 
